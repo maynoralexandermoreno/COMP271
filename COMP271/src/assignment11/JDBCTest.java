@@ -10,7 +10,7 @@
  * Uses the mysql driver that is located in the referenced library. 
  * 
  */
-package assignment10;
+package assignment11;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
