@@ -2,13 +2,13 @@ Assignment Numbers, names, and page numbers
 
 Assignment 01           Integer                 pg 400    #10.3
 
-Assignment 02           Triangle                pg 445    #11.1 
+Assignment 02.1         Triangle                pg 445    #11.1 
 
-                        Account                           #11.3  
+Assignment 02.2         Account                 pg 445    #11.3  
      
-Assignment 03           Triangle                pg 529    #13.1 
+Assignment 03.1         Triangle                pg 529    #13.1 
             
-                        Circle                            #13.9 
+Assignment 03.2         Circle                  pg 529    #13.9 
               
 Assignment 04           File I/0                pg 490    #12.15
 
