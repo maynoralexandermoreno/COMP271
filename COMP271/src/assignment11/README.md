@@ -1,0 +1,25 @@
+*32.1 (Access and update a Staff table) Write a program that views, inserts, and updates staff information stored in a database, as shown in Figure 32.27a. The View button displays a record with a specified ID. The Insert button inserts a newrecord. The Update button updates the record for the specified ID. The Staff table is created as follows:
+
+create table Staff (
+
+id char(9) not null,
+
+lastName varchar(15),
+
+firstName varchar(15),
+
+mi char(1),
+
+address varchar(20),
+
+city varchar(20),
+
+state char(2),
+
+telephone char(10),
+
+email varchar(40),
+
+primary key (id));
+
+NOTE: The assignment was changed to be able to perform the insert, update, and views without the GUI, instead displaying the resulting information in the console.
